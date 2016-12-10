@@ -1,5 +1,5 @@
-print("Hello world")
-адске
-print(hello)
-print(hello my dear friend)
-print(glad to see you)
+print("Hello world;")
+адске;
+print(hello;)
+print(hello my dear friend;)
+print(glad to see you;)
